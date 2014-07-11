@@ -24,3 +24,6 @@ ofxAndroid/ofAndroidLib/gen
 
 # don't ignore the .gitignore file
 !.gitignore
+
+ofxHttpUtils
+ofxJSON
